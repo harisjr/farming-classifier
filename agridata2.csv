@@ -1,8 +1,0 @@
-outlook,temp,windy,soil,results
-sunny,,no,infertile,0
-,cool,yes,infertile,0
-rain,hot,,fertile,1
-rain,warm,,fertile,1
-sunny,,no,fertile,1
-,cool,yes,fertile,1
-overcast,,no,infertile,0
